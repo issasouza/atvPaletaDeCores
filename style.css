@@ -1,0 +1,63 @@
+.corNavbar{
+    background-color: #CCD5AE;
+
+}
+.baquigraud{
+    background-color: #FAEDCD;
+}
+.cordisso{
+    background-color: #E9EDC9;
+
+}
+.fundoDoGif{
+background-color: #CCD5AE;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  .coluna-imagem {
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+
+  }
+
+  .coluna-texto {
+    width: 55%;
+    float: left;
+
+  }
+
+  img2 {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+
+  .containerGif {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.img3 {
+	max-width: 100%;
+	max-height: 100%;
+}
+button{
+   background-color: #698269;
+   color: white;
+   padding: 10px;
+   border: none;
+   border-radius: 5px;
+   text-decoration: none;
+}
+.fundoD{
+    background-color: #FEFAE0;
+    }
